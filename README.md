@@ -3,14 +3,14 @@
 
 A model of a simple Arithmetic Logic Unit (ALU) in Vivado. This was completed as a project to learn hardware descriptive language, but now serves as a reference to myself and a showcase to others.
 
-- [link](#top-level-diagram)
-- [link](#simulations)
-    - [link](#increment-and-addition)
-    - [link](#multiplication)
-    - [link](#bitwise-operations)
-    - [link](#compare-operations)
-    - [link](#2s-complement)
-    - [link](#complement-operations)
+- [Diagram](#top-level-diagram)
+- [Simulation Results](#simulations)
+    - [Increment and Addition](#increment-and-addition)
+    - [Multiplication](#multiplication)
+    - [Bitwise Operations](#bitwise-operations)
+    - [Compare Operations](#compare-operations)
+    - [2's Complement](#2s-complement)
+    - [Complement](#complement-operations)
 
 # Top Level Diagram
 
@@ -18,7 +18,7 @@ Top level diagram of the ALU:
 
 ![Top Level Diagram of ALU](/assets/top_level2.png)
 
-# Simulations
+# Simulation Results
 
 Below are the simulation results, sorted by function.
 
