@@ -1,7 +1,7 @@
 
 # ALU
 
-A model of a simple Arithmetic Logic Unit (ALU) in Vivado. This was completed as a project to learn hardware descriptive language, but now serves as a reference to myself and a showcase to others.
+A model of a simple Arithmetic Logic Unit (ALU) in Vivado written in VHDL. This was completed as a project to learn hardware descriptive language, but now serves as a reference to myself and a showcase to others.
 
 - [Diagram](#top-level-diagram)
 - [Simulation Results](#simulations)
